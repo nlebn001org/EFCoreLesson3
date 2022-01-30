@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreLesson3Task1", "EFCoreLesson3Task1\EFCoreLesson3Task1.csproj", "{BE2BEAE9-630E-4ACB-A2F1-1A7CFE733744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreLesson3Task2", "EFCoreLesson3Task2\EFCoreLesson3Task2.csproj", "{A0DF5117-253C-4367-9A71-ADF1C906EE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2BEAE9-630E-4ACB-A2F1-1A7CFE733744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2BEAE9-630E-4ACB-A2F1-1A7CFE733744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2BEAE9-630E-4ACB-A2F1-1A7CFE733744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2BEAE9-630E-4ACB-A2F1-1A7CFE733744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DF5117-253C-4367-9A71-ADF1C906EE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DF5117-253C-4367-9A71-ADF1C906EE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DF5117-253C-4367-9A71-ADF1C906EE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DF5117-253C-4367-9A71-ADF1C906EE97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E388033-5996-4783-A344-C6DA1086C81C}
+	EndGlobalSection
+EndGlobal
